@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "MCKIM_SPACE_ID": "@mckim_space_id",
+      "MCKIM_ACCESS_TOKEN": "@mckim_access_token"
+    }
+  }
+}
